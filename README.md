@@ -4,4 +4,4 @@
 _html_
 
 
-<a href="https://alexei-t1.github.io/Alexei-T1/" rel="nofollow">Live Demo</a>  <-- Recipes
+<a href="https://alexei-t1.github.io/odin-recipes/" rel="nofollow">Live Demo</a>  <-- Recipes
